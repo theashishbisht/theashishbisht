@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQL, NoSQL**
 
-- 📫 How to reach me **bisht.s.ashish@gmail.com**
+- 📫 How to reach me **bisht.s.ashish@gmail.com or ashishb.1998@yahoo.in**
 
 - ⚡ Fun fact **I am Funny**
 
