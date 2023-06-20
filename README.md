@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Kafka**
 
-- 💬 Ask me about **SQL, NoSQL**
+- 💬 Ask me about **SQL, NoSQL, PostgreSQL, MySQL, Spark, Scala, PySpark, MongoDB, Python**
 
 - 📫 How to reach me **bisht.s.ashish@gmail.com or ashishb.1998@yahoo.in**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am funny and witty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
