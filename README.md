@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theashishbisht&label=Profile%20views&color=0e75b6&style=flat" alt="theashishbisht" /> </p>
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Azure Data Factory & AWS for cloud**
 
 - 💬 Ask me about **SQL, NoSQL, PostgreSQL, MySQL, Spark, Scala, PySpark, MongoDB, Python**
 
