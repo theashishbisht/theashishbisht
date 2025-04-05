@@ -6,9 +6,6 @@
     alt="Customizable Banner" 
     style="width: 100%; max-width: 1600px; height: auto; display: block; margin: 0 auto;">
 </div>
-<p align="Left">
- <img src="https://komarev.com/ghpvc/?username=theashishbisht&label=👀%20Profile%20Views&color=success&style=for-the-badge" alt="Profile views" />
-</p>
 
 # Hi, I'm Ashish Bisht 👋
 ### Passionate Data Engineer
@@ -34,7 +31,9 @@ I’m a passionate Data Engineer with a knack for solving complex data challenge
 ---
 
 ## 📊 GitHub Stats
-
+<p align="Left">
+ <img src="https://komarev.com/ghpvc/?username=theashishbisht&label=👀%20Profile%20Views&color=informational&style=for-the-badge" alt="Profile views" />
+</p>
 
 <!-- Container to hold stats (left) and image (right) in one row -->
 <div style="display: flex; align-items: center; justify-content: center;">
