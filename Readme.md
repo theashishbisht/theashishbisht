@@ -27,7 +27,7 @@
 
 ```yaml
 name:        Ashish Bisht
-role:        Senior Data Analyst @ Naabhik Solutions LLP
+role:        Senior Data Analyst @ Naabhik Solutions
 location:    Vadodara, Gujarat, India 🇮🇳
 focus:       SAP FICO • Data Quality & Governance • Analytics
 stack:       SAP Datasphere • HANA • Databricks • Azure • Python • SQL
@@ -36,7 +36,7 @@ ask_me_about: [SAP, SQL, Python, Spark, Databricks, Data Governance]
 fun_fact:    "I make data-driven jokes — they're statistically significant 📊"
 ```
 
-- 💼 **Senior Data Analyst** at **Naabhik Solutions LLP**, working across the SAP data ecosystem
+- 💼 **Senior Data Analyst** at **Naabhik Solutions**, working across the SAP data ecosystem
 - 🧩 Specializing in **SAP FICO**, **Data Quality**, and **Data Governance**
 - ⚙️ Day-to-day with **SAP Datasphere**, **SAP HANA**, **Databricks**, and **Azure**
 - 🌱 Currently leveling up on **Kafka** and **real-time analytics**
